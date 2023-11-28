@@ -1,0 +1,56 @@
+body {
+    width: 100%;
+    margin: 0;
+    background-color: #1b1b32;
+    color: #f5f6f7;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+h1, p {
+    margin: 1em auto;
+    text-align: center;
+}
+
+label {
+    text-align: center;
+    display: block;
+    margin: 0.5rem 0;
+
+}
+
+input {
+    clear: both;
+    float: right;
+    margin-bottom: 10px;
+    height: 20px;
+    width: 400px;
+}
+
+textarea, select {
+    width: 100%;
+    margin: 10px 0 0 0;
+    min-height: 2em;
+    
+}
+
+form {
+    width: 100vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+
+input[type="submit"] {
+    display: block;
+    min-width: 300px;
+    width: 60%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: green;
+    border-color: white;
+}
+
