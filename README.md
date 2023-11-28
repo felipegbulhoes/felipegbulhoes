@@ -32,12 +32,8 @@
 ###
 
 <div align="center">
-  <img height="135" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47zggngv87nv2dnt1lz6nqbn0cagc5t0fqa6rrhxoq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="120" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47zggngv87nv2dnt1lz6nqbn0cagc5t0fqa6rrhxoq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
-
-###
-
-<h3 align="left">Meus Status :</h3>
 
 ###
 
@@ -90,5 +86,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<h3 align="left">Meus Status :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipegbulhoes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=felipegbulhoes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/felipegbulhoes/felipegbulhoes/output/snake.svg" alt="Snake animation" />
 
 ###
