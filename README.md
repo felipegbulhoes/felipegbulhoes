@@ -100,6 +100,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/felipegbulhoes/felipegbulhoes/output/snake.svg" alt="Snake animation" />
-
-###
