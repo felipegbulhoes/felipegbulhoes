@@ -23,3 +23,7 @@ const HTMLString = `
 <label for="${entryDropdown.value}-${entryNumber}-name">Entry ${entryNumber} Name</label>
 <input type="text" id="${entryDropdown.value}-${entryNumber}-name" placeholder="Name" />`;
 }
+
+function name(params) {
+    
+}
