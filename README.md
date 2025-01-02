@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Eu sou Felipe Gomes Bulhões Gonçalves<br><br>- Nascido em 16 de Abril de 1998<br>- Cursando Análise e Desenvolvimento de Sistemas ( 4° Semestre )<br>- Estudante de Programação em tempo integral<br>- Atualmente estudando tecnologias Front End<br>- Quando não estou codando gosto de acompanhar o mercado financeiro<br>- Para o Futuro pretendo cursar Engenharia de Software</p>
+<p align="left">Eu sou Felipe Gomes Bulhões Gonçalves<br><br>- Nascido em 16 de Abril de 1998<br>- Formado Análise e Desenvolvimento de Sistemas <br>- Cursando Pós graduação cloud computing ( 2025 ) <br>- Estudante de Programação em tempo integral<br>- Atualmente estudando tecnologias Front End & Cloud Aws<br>- Quando não estou codando gosto de acompanhar o mercado financeiro<br></p>
 
 ###
 
@@ -60,8 +60,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -99,4 +97,3 @@
 </div>
 
 ###
-
