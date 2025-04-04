@@ -1,18 +1,16 @@
-<h1 align="center">Olá Pessoal !</h1>
+<h1 align="center">👋 Olá Pessoal!</h1>
 
 ###
 
-<h3 align="left">Sobre Min</h3>
+<h3 align="left">💻 Sobre Mim</h3>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="100" src="https://scontent.frec8-1.fna.fbcdn.net/v/t31.18172-8/21731715_846288082197178_8228783692634689029_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7a1959&_nc_ohc=Fl7t5X7X7CwAX9zY6SR&_nc_ht=scontent.frec8-1.fna&oh=00_AfAqcH4q2rN_1hiEz1RgnsVl_wLZ9ytdgTS22_iTibu0DQ&oe=658CD1FD"  />
-
 ###
 
-<p align="left">Eu sou Felipe Gomes Bulhões Gonçalves<br><br>- Nascido em 16 de Abril de 1998<br>- Formado Análise e Desenvolvimento de Sistemas <br>- Cursando Pós graduação cloud computing ( 2025 ) <br>- Estudante de Programação em tempo integral<br>- Atualmente estudando tecnologias Front End & Cloud Aws<br>- Quando não estou codando gosto de acompanhar o mercado financeiro<br></p>
+<p align="left">Eu sou <strong>Felipe Gomes Bulhões Gonçalves</strong>, um desenvolvedor Full Stack JS (React & Node) com foco em Cloud Computing (AWS).<br><br>- 🎂 Nascido em 16 de Abril de 1998<br>- 🎓 Formado em Análise e Desenvolvimento de Sistemas (2024)<br>- 📚 Cursando Pós-graduação em Cloud Computing (2025)<br>- 💻 Estudante de Programação em tempo integral<br>- 🔧 Atualmente estudando tecnologias Front End & Cloud AWS<br>- 📈 Quando não estou codando, gosto de acompanhar o mercado financeiro<br></p>
 
 ###
 
@@ -37,7 +35,9 @@
 
 ###
 
-<h3 align="center">Linguagens & Marcações</h3>
+<h3 align="center">🚀 Habilidades Técnicas</h3>
+
+<h4 align="center">Linguagens & Marcações</h4>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h3 align="center">Frameworks / Habilidades & Ferramentas</h3>
+<h4 align="center">Frameworks & Ferramentas</h4>
 
 ###
 
@@ -66,7 +66,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
@@ -87,7 +88,7 @@
 
 ###
 
-<h3 align="left">Meus Status :</h3>
+<h3 align="left">📊 Meus Status</h3>
 
 ###
 
@@ -97,3 +98,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <p>"Transformando linhas de código em soluções inovadoras e escaláveis."</p>
+</div>
