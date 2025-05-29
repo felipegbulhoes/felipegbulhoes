@@ -16,8 +16,5 @@ Sou Felipe Gomes Bulhões Gonçalves, um desenvolvedor Full Stack JS (React & No
 ![](https://nirzak-streak-stats.vercel.app/?user=felipegbulhoes&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipegbulhoes&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Troféus
-![](https://github-profile-trophy.vercel.app/?username=felipegbulhoes&theme=midnight-purple&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=felipegbulhoes&icon=9&color=1)](https://visitcount.itsvg.in)
