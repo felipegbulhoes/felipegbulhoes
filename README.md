@@ -1,5 +1,17 @@
-# 👦🏻 Felipe Gomes:
-Sou Felipe Gomes Bulhões Gonçalves, um desenvolvedor Full Stack JS (React & NodeJS) com foco em Cloud Computing (AWS).<br><br>- 🎂 Nascido em 16 de Abril de 1998.<br>- 🎓 Formado em Análise e Desenvolvimento de Sistemas (2025).<br>- 📚 Cursando Pós-graduação em Cloud Computing (2025).<br>- 💻 Estudante de Programação em tempo integral.<br>- 🔧 Atualmente estudando tecnologias Front End & Cloud AWS.<br>- 📈 Quando não estou codando, gosto de acompanhar o mercado financeiro.
+👦🏻 Felipe Gomes
+
+Sou Felipe Gomes Bulhões Gonçalves, profissional em transição para a área de DevOps & Cloud, com foco em práticas de automação, Infraestrutura como Código, CI/CD, Observabilidade e Arquitetura AWS.
+Atuo como Suporte de T.I e venho consolidando minha jornada para engenharia de plataformas e ambientes em nuvem.
+
+🎓 Formado em Análise e Desenvolvimento de Sistemas (2024)
+
+🎓 Certificado Aws Cloud Practitioner (2025)
+
+☁️ Focado em AWS & Cultura DevOps
+
+🔧 Explorando automação, pipelines, containers e boas práticas de SRE
+
+📈 Apaixonado por tecnologia, otimização e ambientes escaláveis
 
 
 ## 🌐 Redes Sociais:
