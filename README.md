@@ -1,81 +1,42 @@
-# 👋 Olá, eu sou Felipe Gomes Bulhões Gonçalves  
+# 👋 Olá, eu sou Felipe Gomes Bulhões
 
-🎯 **Auxiliar de Suporte de TI | Cloud & DevOps | AWS Practitioner**  
-💻 Apaixonado por tecnologia, automação e computação em nuvem  
-📍 Olinda – PE  
-🔗 [LinkedIn](https://www.linkedin.com/in/felipegbulhoes/)  
+**Assistente de Suporte de TI** · Olinda, PE
+Infraestrutura, service desk e automação · AWS Certified Cloud Practitioner
 
----
-
-## 🚀 Sobre mim
-
-Sou graduado em **Análise e Desenvolvimento de Sistemas** e atuo como **Auxiliar de Suporte de TI**, com foco crescente nas áreas de **Cloud Computing**, **DevOps** e **automação**.
-
-Possuo certificação **AWS Cloud Practitioner**, conhecimento em serviços essenciais da AWS, containers, infraestrutura como código e monitoramento. Estou sempre construindo projetos práticos, estudando tecnologias modernas e evoluindo rumo a posições em Cloud/DevOps.
-
-Aqui no GitHub você encontrará meus projetos de estudo, automações, laboratórios em nuvem e experimentos com ferramentas que utilizo no meu dia a dia.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipegbulhoes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipegbulhoes/)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white)
 
 ---
 
-## 🧩 Áreas de Interesse
+## O que eu faço
 
-- ☁️ **Cloud Computing (AWS / Azure)**
-- 🛠 **DevOps & Automação**
-- 🔄 **CI/CD**
-- 🐳 **Containers & Kubernetes**
-- 📊 **Observabilidade (Grafana, Datadog, Prometheus)**
-- 🖥 **SRE Fundamentals**
-- 🐍 **Python para automação**
-- 🔐 **Boas práticas de segurança em nuvem**
+Trabalho com sustentação de infraestrutura e suporte técnico: administração de
+plataforma de service desk (GLPI), servidores Linux, virtualização, Windows
+Server/Active Directory e redes. Quando uma tarefa começa a se repetir, escrevo
+uma automação em Python para ela.
 
----
+Boa parte desse trabalho é interna e não vive aqui. O que está público neste
+perfil são estudos, laboratórios e os canais de distribuição das ferramentas
+que eu mantenho.
 
-## 🧰 Tech Stack
+## Stack do dia a dia
 
-### **Cloud**
-- AWS (EC2, S3, IAM, VPC, CloudWatch)
-- Azure (conceitos iniciais)
+**Infraestrutura** — Linux (Debian) · Windows Server · Active Directory · Proxmox · Samba/SMB · Redes e VLANs
+**Service desk** — GLPI (entidades, perfis, categorias, modelos de chamado, regras de atribuição, notificações)
+**Automação** — Python · APIs REST · automação de navegador · Git/GitHub
+**Dados** — SQL Server · MySQL/MariaDB
 
-### **DevOps & Infra**
-- Docker  
-- Terraform (básico)  
-- Ansible (básico)  
-- Git | GitHub  
-- GitHub Actions (conceitos)  
-- CI/CD (pipeline básico)
+## Estudando agora
 
-### **Observabilidade**
-- Grafana  
-- Prometheus (básico)  
-- Datadog (básico)  
-- CloudWatch Metrics & Logs  
+- **AWS Solutions Architect – Associate (SAA-C03)** — próxima certificação
+- Docker e empacotamento de aplicações
+- Infraestrutura como código — primeiros passos
 
-### **Linguagens & Scripting**
-- Python (automação e scripts úteis)  
-- Bash (conceitos)
+## Certificações
 
-### **Outros**
-- Linux  
-- Redes (básico)  
-- HTML/CSS  
+**AWS Certified Cloud Practitioner** — Amazon Web Services · nov/2025 → nov/2028
 
----
+## Contato
 
-## 🎓 Certificações
-
-- 🟦 **AWS Cloud Practitioner**
-
----
-
-## 📫 Como me encontrar
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/felipegbulhoes  
-- 🐙 **GitHub:** https://github.com/felipegbulhoes  
-- ✉️ **E-mail:** felipegbulhoes@outlook.com  
-
----
-
-## 💡 Sempre evoluindo!
-
-Estou constantemente aprimorando habilidades e criando projetos reais para evoluir na carreira e contribuir com a comunidade.  
-Se quiser trocar ideias sobre Cloud, DevOps ou tecnologia — fico à disposição!
+- LinkedIn: [in/felipegbulhoes](https://www.linkedin.com/in/felipegbulhoes)
+- E-mail: felipegbulhoes@outlook.com
